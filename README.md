@@ -8,13 +8,13 @@
 <!-- 1. THE BANNER -->
 <!-- This is the main visual that sets the theme. Replace YOUR_USERNAME with your actual GitHub username. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samuelchimmy/samuelchimmy/main/assets/github-banner.png" alt="Samuel Chiedozie - Front-End Engineer Banner">
+  <img src="https://raw.githubusercontent.com/samuelchimmy/samuelchimmy/assets/github-banner.png" alt="Samuel Chiedozie - Front-End Engineer Banner">
 </p>
 
 <!-- 2. THE ABOUT ME SECTION -->
 <!-- Replace the header image path with your own. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samuelchimmy/samuelchimmy/main/assets/header-about.png" alt="About Me Header" width="300">
+  <img src="https://raw.githubusercontent.com/samuelchimmy/samuelchimmy/assets/header-about.png" alt="About Me Header" width="300">
 </p>
 
 <p align="center">
