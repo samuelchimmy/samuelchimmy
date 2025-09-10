@@ -1,6 +1,6 @@
 <div align="center">
 
-# Samuel C. Chiedozie
+# Jadeofwalstreet
 
 **Multidisciplinary Engineer & Product Strategist | Web2, Web3, and Content**
 
