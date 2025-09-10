@@ -1,33 +1,35 @@
 <!-- 
-====================================================================================================================================
- Hi there! This is a README template designed to match your portfolio's "sketchbook" aesthetic.
- You just need to replace the placeholders. Look for comments like this one!
-====================================================================================================================================
+============================================================================================================
+ Samuel's Custom GitHub Profile - v2
+ Focus: Clean, authentic, and highlights the unique journey from community/product to engineering.
+============================================================================================================
 -->
 
 <!-- 1. THE BANNER -->
-<!-- This is the main visual that sets the theme. Replace YOUR_USERNAME with your actual GitHub username. -->
+<!-- This visual sets the 'sketchbook' theme of your portfolio. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samuelchimmy/samuelchimmy/assets/github-banner.png" alt="Samuel Chiedozie - Front-End Engineer Banner">
+  <img src="https://raw.githubusercontent.com/samuelchimmy/samuelchimmy/main/github-banner.png" alt="Samuel Chiedozie - Front-End Engineer Banner">
 </p>
 
-<!-- 2. THE ABOUT ME SECTION -->
-<!-- Replace the header image path with your own. -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samuelchimmy/samuelchimmy/assets/header-about.png" alt="About Me Header" width="300">
-</p>
+<!-- 2. INTRODUCTION -->
+<div align="center">
 
-<p align="center">
-  I'm a Front-End Engineer specializing in <strong>React</strong> and <strong>TypeScript</strong>, with over 5 years of experience building scalable, user-centric web applications. My journey from community and product roles has given me a deep empathy for the user, allowing me to craft intuitive interfaces that solve complex problems. I am passionate about performance optimization, leveraging techniques like <strong>code-splitting, memoization, and tree-shaking</strong> to deliver a seamless user experience. I thrive in collaborative, remote-first environments and I'm excited by Deel's mission to break down barriers in the global workplace.
-</p>
+Hello! I'm Samuel, a Front-End Engineer who loves building beautiful, high-performance web applications that solve real problems.
 
+My journey into software engineering began in the world of community and product. That experience taught me the most valuable lesson a developer can learn: **empathy**. I build software for people, focusing not just on clean code, but on creating intuitive and meaningful user experiences. I thrive on turning complex challenges into simple, elegant solutions with **React** and **TypeScript**.
+
+</div>
+
+<!-- 3. KEY LINKS -->
 <p align="center">
   <a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-F7F2EE?style=for-the-badge&logo=Plex&logoColor=black" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Interactive_Portfolio-F7F2EE?style=for-the-badge&logo=Plex&logoColor=black" alt="Portfolio"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/samuelchimmy1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://x.com/MetisCharter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
@@ -35,45 +37,27 @@
 
 <br>
 
-<!-- 3. THE TECH STACK SECTION -->
-<!-- Replace these image paths with your own hand-drawn icon assets. -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samuelchimmy/samuelchimmy/main/assets/header-tech.png" alt="My Tech Stack Header" width="350">
-</p>
+<!-- 4. CORE TECHNOLOGIES -->
+<h3 align="center">Core Technologies I Work With</h3>
 
-<table align="center" width="80%">
-  <tr align="center">
-    <td width="20%">
-      <img src="https://raw.githubusercontent.com/samuelchimmy/samuelchimmy/main/assets/icon-react.png" width="48" height="48" alt="React" />
-      <br><strong>React</strong>
-    </td>
-    <td width="20%">
-      <img src="https://raw.githubusercontent.com/samuelchimmy/samuelchimmy/main/assets/icon-ts.png" width="48" height="48" alt="TypeScript" />
-      <br><strong>TypeScript</strong>
-    </td>
-    <td width="20%">
-      <img src="https://raw.githubusercontent.com/samuelchimmy/samuelchimmy/main/assets/icon-vite.png" width="48" height="48" alt="Vite" />
-      <br><strong>Vite</strong>
-    </td>
-    <td width="20%">
-      <img src="https://raw.githubusercontent.com/samuelchimmy/samuelchimmy/main/assets/icon-tailwind.png" width="48" height="48" alt="Tailwind CSS" />
-      <br><strong>Tailwind</strong>
-    </td>
-    <td width="20%">
-      <img src="https://raw.githubusercontent.com/samuelchimmy/samuelchimmy/main/assets/icon-supabase.png" width="48" height="48" alt="Supabase" />
-      <br><strong>Supabase</strong>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</p>
 
 <br>
 
-<!-- 4. GITHUB STATS -->
+<!-- 5. GITHUB STATS -->
 <!-- This part uses a tool called 'github-readme-stats'. I've created a custom theme that matches your portfolio colors. -->
-<!-- Just replace 'samuelchimmy' with your username in both URLs. -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samuelchimmy/samuelchimmy/main/assets/header-stats.png" alt="GitHub Stats Header" width="300">
-</p>
+<!-- Just replace 'samuelchimmy' with your username in both URLs if it's different. -->
+<h3 align="center">My GitHub Activity</h3>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelchimmy&show_icons=true&hide_border=true&include_all_commits=true&card_width=445&theme=transparent" />
