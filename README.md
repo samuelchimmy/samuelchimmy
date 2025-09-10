@@ -1,65 +1,109 @@
-<!-- 
-============================================================================================================
- Samuel's Custom GitHub Profile - v2
- Focus: Clean, authentic, and highlights the unique journey from community/product to engineering.
-============================================================================================================
--->
-
-<!-- 1. THE BANNER -->
-<!-- This visual sets the 'sketchbook' theme of your portfolio. -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samuelchimmy/samuelchimmy/main/github-banner.png" alt="Samuel Chiedozie - Front-End Engineer Banner">
-</p>
-
-<!-- 2. INTRODUCTION -->
 <div align="center">
 
-Hello! I'm Samuel, a Front-End Engineer who loves building beautiful, high-performance web applications that solve real problems.
+# Samuel C. Chiedozie
 
-My journey into software engineering began in the world of community and product. That experience taught me the most valuable lesson a developer can learn: **empathy**. I build software for people, focusing not just on clean code, but on creating intuitive and meaningful user experiences. I thrive on turning complex challenges into simple, elegant solutions with **React** and **TypeScript**.
+**Multidisciplinary Engineer & Product Strategist | Web2, Web3, and Content**
 
 </div>
 
-<!-- 3. KEY LINKS -->
-<p align="center">
-  <a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
-    <img src="https://img.shields.io/badge/Interactive_Portfolio-F7F2EE?style=for-the-badge&logo=Plex&logoColor=black" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/samuelchimmy1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/MetisCharter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
+---
 
-<br>
+Hello! I'm Samuel. My career sits at the unique intersection of software engineering, product strategy, and community building. I believe the best technology is built with deep empathy for the people who use it, a lesson I learned firsthand while managing and growing online communities.
 
-<!-- 4. CORE TECHNOLOGIES -->
-<h3 align="center">Core Technologies I Work With</h3>
+Today, I apply that principle to every line of code I write. Whether I'm architecting a scalable front-end in **React** and **TypeScript**, exploring decentralized systems with **Solidity**, or drafting a go-to-market content strategy, my focus is always on creating value and delivering an intuitive user experience. I thrive in environments where I can bridge the gap between technical possibility and human-centered design.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-</p>
+<div align="center">
 
-<br>
+[**Interactive Portfolio**](https://YOUR_PORTFOLIO_URL.com) &nbsp;&nbsp;|&nbsp;&nbsp; [**LinkedIn**](https://www.linkedin.com/in/samuelchimmy1) &nbsp;&nbsp;|&nbsp;&nbsp; [**Twitter / X**](https://x.com/MetisCharter)
 
-<!-- 5. GITHUB STATS -->
-<!-- This part uses a tool called 'github-readme-stats'. I've created a custom theme that matches your portfolio colors. -->
-<!-- Just replace 'samuelchimmy' with your username in both URLs if it's different. -->
-<h3 align="center">My GitHub Activity</h3>
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelchimmy&show_icons=true&hide_border=true&include_all_commits=true&card_width=445&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelchimmy&layout=compact&hide_border=true&langs_count=8&card_width=380&theme=transparent" />
-</p>
+---
+
+### **Core Competencies**
+
+<table>
+  <tr valign="top">
+    <td width="33%">
+      <h4>Front-End Engineering (Web2)</h4>
+      <ul>
+        <li>Building scalable, performant UIs with React & TypeScript</li>
+        <li>Advanced State Management (React Query, Context)</li>
+        <li>Performance Optimization (Code-splitting, Memoization)</li>
+        <li>Component-Based Architecture & Design Systems</li>
+        <li>End-to-End & Unit Testing (Jest, React Testing Library)</li>
+      </ul>
+    </td>
+    <td width="33%">
+      <h4>Blockchain & Web3</h4>
+      <ul>
+        <li>Smart Contract Fundamentals (Solidity)</li>
+        <li>Decentralized Application (dApp) Architecture</li>
+        <li>Interacting with Blockchain Data (Ethers.js, The Graph)</li>
+        <li>On-Chain Analysis & Tokenomics</li>
+        <li>DAO Governance & Community Tooling</li>
+      </ul>
+    </td>
+    <td width="33%">
+      <h4>Product & Content Strategy</h4>
+      <ul>
+        <li>Technical Writing & Documentation</li>
+        <li>Community Building & Management</li>
+        <li>User Feedback Analysis & Product Roadmapping</li>
+        <li>Go-to-Market (GTM) Content</li>
+        <li>Brand Voice & Identity Development</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### **Technology Stack**
+
+<table>
+  <tr valign="top">
+    <td width="25%">
+      <strong>Languages</strong>
+      <ul>
+        <li>TypeScript</li>
+        <li>JavaScript (ES6+)</li>
+        <li>Solidity</li>
+        <li>Rust (Learning)</li>
+        <li>SQL</li>
+        <li>HTML/CSS</li>
+      </ul>
+    </td>
+    <td width="25%">
+      <strong>Front-End</strong>
+      <ul>
+        <li>React</li>
+        <li>Vite</li>
+        <li>Tailwind CSS</li>
+        <li>React Query</li>
+        <li>Jest / RTL</li>
+        <li>Radix UI</li>
+      </ul>
+    </td>
+    <td width="25%">
+      <strong>Backend & Database</strong>
+      <ul>
+        <li>Supabase</li>
+        <li>PostgreSQL</li>
+        <li>Node.js (Express)</li>
+        <li>Vercel</li>
+        <li>Deno</li>
+      </ul>
+    </td>
+    <td width="25%">
+      <strong>Web3 Tooling</strong>
+      <ul>
+        <li>Ethers.js</li>
+        <li>Hardhat</li>
+        <li>The Graph</li>
+        <li>Alchemy / Infura</li>
+        <li>IPFS</li>
+      </ul>
+    </td>
+  </tr>
+</table>
