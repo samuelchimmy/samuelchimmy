@@ -14,7 +14,7 @@ Today, I apply that principle to every line of code I write. Whether I'm archite
 
 <div align="center">
 
-[**Interactive Portfolio**](https://YOUR_PORTFOLIO_URL.com) &nbsp;&nbsp;|&nbsp;&nbsp; [**LinkedIn**](https://www.linkedin.com/in/samuelchimmy1) &nbsp;&nbsp;|&nbsp;&nbsp; [**Twitter / X**](https://x.com/MetisCharter)
+[**Interactive Portfolio**](https://www.0xnotes.lol/) &nbsp;&nbsp;|&nbsp;&nbsp; [**LinkedIn**](https://www.linkedin.com/in/samuelchimmy1) &nbsp;&nbsp;|&nbsp;&nbsp; [**Twitter / X**](https://x.com/MetisCharter)
 
 </div>
 
